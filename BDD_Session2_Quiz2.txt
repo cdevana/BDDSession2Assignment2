@@ -1,0 +1,79 @@
+1. Minimum number of reducers that can be set:
+	a. 0
+	b. 1
+	c. 2
+	d. 4
+	
+	Answer: c. 2	
+	
+2. Who calls the submit method on job
+	a. Resource Manager
+	b. Client
+	c. Master
+	d. Node manager
+	
+	Answer: b. Client
+	
+3. Once the NameSpace edits are done, these are periodically  updated to?
+	a. Active namenode
+	b. Secondary namenode
+	c. Both of these
+	d. None of these
+	
+	Answer: a. Active namenode
+	
+4. Full form of YARN?
+	a. Yet Another Resource Negotiation
+	b. Yet Another Resource Negotiator
+	c. Yet Another Resource Node
+	d. None of these
+	
+	Answer: b. Yet Another Resource Negotiator
+	
+5. For every ____ seconds, a namenode receives heart beats from data nodes.
+	a. 5
+	b. 10
+	c. 3
+	d. 4
+	
+	Answer: c. 3
+	
+6. Master layer in Hadoop Architecture contains:
+	a. Namenode & Resource Manager
+	b. Slave nodes & Node Manager
+	c. Namenode & Node Manager
+	d. Slave nodes & Resource Manager
+	
+	Answer: a. Namenode & Resource Manager
+	
+7. For every job submitted to Resource Manager, it returns an acknowledgment in the form of:
+	a. Application
+	b. Appid
+	c. All of the above
+	d. None of these
+	
+	Answer: c. All of the above
+	
+8. A container is supervised by:
+	a. NodeManager
+	b. ResourceManager
+	c. Namenode
+	d. Secondary Namenode
+	
+	Ansewr: b. ResourceManager
+	
+9. Who manages the file system, Namespace?
+	a. Namenode
+	b. Datanode
+	c. Secondary Namenode
+	d. None of these
+	
+	Answer: a. Namenode
+	
+10. Metadata information in the Namenode is present in which file?
+	a. fsimage
+	b. sfimage
+	c. fdimage
+	d. dfimage
+	
+	Answer: a. fsimage
